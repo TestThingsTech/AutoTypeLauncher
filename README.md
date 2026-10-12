@@ -2,6 +2,8 @@
 
 AutoType Launcher is a small Windows desktop utility that sends text to the active window after a short countdown.
 
+Highlight a portion of the active tab to send only that selection. Otherwise, the entire active tab is sent. `F6` starts sending by default while the app is focused; choose `F7` through `F12` in the app if preferred.
+
 ## Download
 
 Download `AutoTypeLauncher.zip` from the [latest release](https://github.com/TestThingsTech/AutoTypeLauncher/releases/latest), extract it, and run `AutoTypeLauncher.exe`.
